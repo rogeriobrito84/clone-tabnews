@@ -1,24 +1,24 @@
 {
-  "name": "clone-tabnews",
-  "version": "1.0.0",
-  "description": "Repository for Filipe Deschamps studies curse",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest",
-    "test:watch": "jest --watch",
-    "dev": "next dev",
-    "lint:check": "prettier --check .",
-    "lint:fix": "prettier --write ."
-  },
-  "author": "rogeriobrito84@gmail.com",
-  "license": "MIT",
-  "dependencies": {
-    "next": "^13.1.6",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  },
-  "devDependencies": {
-    "jest": "^29.6.2",
-    "prettier": "^3.1.0"
-  }
+    "name": "clone-tabnews",
+    "version": "1.0.0",
+    "description": "Repository for Filipe Deschamps studies curse",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest",
+        "test:watch": "jest --watch",
+        "dev": "next dev",
+        "lint:check": "prettier --check .",
+        "lint:fix": "prettier --write ."
+    },
+    "author": "rogeriobrito84@gmail.com",
+    "license": "MIT",
+    "dependencies": {
+        "next": "^13.1.6",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    },
+    "devDependencies": {
+        "jest": "^29.6.2",
+        "prettier": "^3.1.0"
+    }
 }
